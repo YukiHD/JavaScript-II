@@ -105,9 +105,10 @@ const items = ["Pencil", "Notebook", "yo-yo", "Gum"];
 // }
 // console.log(contains("Gum", items, insideList));
 
-// _________________________________________________________________
 // contains checks if an item is present inside of the given array/list.
 // Pass true to the callback if it is, otherwise pass false.
+
+// _________________________________________________________________
 
 /* STRETCH PROBLEM */
 
